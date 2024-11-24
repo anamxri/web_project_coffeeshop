@@ -1,1 +1,3 @@
-# Triple Espresso
+Café especial na biblioteca Triple Peaks
+
+Esse projeto é uma landing page de biblioteca e café combinando estética e funcionalidade. Foram incorporados dois vídeos usando iframe, um formulário para cadastro/agendamento, e utilizado posicionamento absoluto para organizar. A estrutura do CSS segue a metodologia BEM para facilitar a organização, enquanto @import foi usado para centralizar os estilos em arquivos externos. Organizar o código em arquivos separados por blocos facilitam caso haja necessidade de manutenção. Essa abordagem torna o projeto mais fácil de gerenciar, especialmente em equipe.
